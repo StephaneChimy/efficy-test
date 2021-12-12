@@ -1,0 +1,15 @@
+
+select{
+    margin-right: 2px;
+}
+input{
+    text-align: right;
+    width: 70px;
+}
+button{
+    margin-top: 15px;
+    display: block;
+}
+.output{
+    font-family: monospace;
+}
